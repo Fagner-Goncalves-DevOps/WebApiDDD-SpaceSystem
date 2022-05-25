@@ -15,9 +15,8 @@ A ideia e Criação de um Modelo de CRM, com relações entre das entidades, ent
 
 - ASP.NET 5.0 (with .NET Core 5.0)
 - ASP.NET MVC Core 
-- ASP.NET WebApi Core with
-- ASP.NET WebApi Core Identity 
-- ASP.NET WebApi Core Identity JWT
+- ASP.NET WebApi Core with Identity
+- ASP.NET WebApi Core Identity with JWT
 - Entity Framework Core 5.0
 - .NET Core Native DI
 - AutoMapper
