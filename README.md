@@ -1,6 +1,6 @@
 # Web Api Core - Domain Driven Design
 
-Projeto em Implementação ainda
+A ideia e Criação de um Modelo de CRM, com relações entre das entidades, entregando os dados em API.
 
 ## Que já foi implementado :
 - Implementado Conexão com banco de dados sql, Migration, mapping da entidade
@@ -33,6 +33,6 @@ Projeto em Implementação ainda
 
 ## Implementações Updates
 
-**v1.0 - 04/04/2022**
-- Inicio - Implementado Conexão com bancosql, Migration , mapping Entidades,
+**v1.0 - 03/03/2022**
+- Inicio A ideia e Criação de um Modelo de CRM, com relações entre das entidades, entregando os dados em API.
 
