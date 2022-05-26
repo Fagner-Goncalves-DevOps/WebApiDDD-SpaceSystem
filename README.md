@@ -1,6 +1,6 @@
 # Web Api Core - Domain Driven Design
 
-A ideia e Criação de um Modelo de CRM, com relações entre das entidades, entregando os dados em API.
+A ideia é Criação de um CRM Modelo, com relações entre as entidades, entregando os dados em API.
 
 ## Que já foi implementado :
 - Implementado Conexão com banco de dados sql, Migration, mapping da entidade
