@@ -26,7 +26,7 @@ A ideia é Criação de um CRM Modelo, com relações entre as entidades, entreg
 ## Design Patterns
 - Domain Driven Design
 - Repository & Generic Repository
-- Inversion of Control / Dependency injection
+- Inversion of Control / Dependency injection /
 - ORM
 - Options Pattern
 
